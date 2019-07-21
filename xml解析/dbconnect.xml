@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dbconnect>
+    <Common Type="SQLServer" HostName="DELL-PC" ServerName="" DBName="SAK_DataTable" UserName="sa" PassWord="111" TimeOut="5"/>
+</dbconnect>

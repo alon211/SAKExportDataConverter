@@ -1,0 +1,73 @@
+*
+		{
+		margin:0;
+		padding:0;
+		border:0;
+		}
+
+body
+		{
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		font-size:25px;
+		}
+
+
+
+h2, h3, h4, h5, h6, em
+		{
+		font-weight: bold;
+		}
+
+
+
+em
+		{
+		font-style:normal;
+		}
+
+
+
+	/* ----------------------------------- layout ----------------------------------- */
+html 	{ 
+		min-width: 1210px;
+		background-color: #fdfcf8;
+		overflow:scroll;
+		overflow-x:hidden;
+		}
+
+form#fileEntry_form h5{
+	text-align: left;
+	text-indent: 2%;
+	padding: 1%;
+}
+
+
+
+body
+		{
+		text-align: center;
+		margin: 0;
+		padding: 0;
+		border: 0;
+		background: #fdfcf8;
+		}
+
+
+
+	/* ----------------------------------- sidebar ----------------------------------- */
+div#fileEntry {
+
+	/*margin:1% 50% 10% 20%;
+	padding: 1% 1% 1% 1%;*/
+	border:black solid thin;
+	background: #aaa;
+	
+	float:left;
+
+	}
+
+	input{ vertical-align:middle; margin:0; padding:0}
+	.file-box{ position:relative;width:340px}
+	.txt{ height:22px; border:1px solid #cdcdcd; width:180px; margin:5px;}
+	.btn{ background-color:#FFF; border:1px solid #CDCDCD;height:24px; width:70px;}
+	.file{ position:absolute; top:0; right:80px; height:24px; width:260px;display:none;      }

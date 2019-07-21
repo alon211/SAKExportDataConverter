@@ -1,0 +1,44 @@
+任务单号：,None,None,None,None,None,None
+产品名称:1型监控屏,None,None,序列号:      ,None,版本:,None
+部件名称,供货商,识别号,部件版 本,PCB版本,序列号,备注
+电源板,SRI,701050000477100,None,None,None,None
+CPU板,研华,500001852710002,None,None,None,None
+液晶屏,京东方,500000315440005,/,None,None,None
+AD板,京东方,500000116710000,/,None,None,None
+驱动板,京东方,500000103620003,/,None,None,None
+触摸屏,京东方,500000310410002,/,None,None,None
+None,None,None,None,None,None,None
+产品名称:1型监控屏,None,None,序列号:      ,None,版本:,None
+部件名称,供货商,识别号,部件版 本,PCB版本,序列号,备注
+电源板,SRI,701050000477100,None,None,None,None
+CPU板,研华,500001852710002,None,None,None,None
+液晶屏,京东方,500000315440005,/,None,None,None
+AD板,京东方,500000116710000,/,None,None,None
+驱动板,京东方,500000103620003,/,None,None,None
+触摸屏,京东方,500000310410002,/,None,None,None
+None,None,None,None,None,None,None
+产品名称:1型监控屏,None,None,序列号:      ,None,版本:,None
+部件名称,供货商,识别号,部件版 本,PCB版本,序列号,备注
+电源板,SRI,701050000477100,None,None,None,None
+CPU板,研华,500001852710002,None,None,None,None
+液晶屏,京东方,500000315440005,/,None,None,None
+AD板,京东方,500000116710000,/,None,None,None
+驱动板,京东方,500000103620003,/,None,None,None
+触摸屏,京东方,500000310410002,/,None,None,None
+None,None,None,None,None,None,None
+产品名称:1型监控屏,None,None,序列号:      ,None,版本:,None
+部件名称,供货商,识别号,部件版 本,PCB版本,序列号,备注
+电源板,SRI,701050000477100,None,None,None,None
+CPU板,研华,500001852710002,None,None,None,None
+液晶屏,京东方,500000315440005,/,None,None,None
+AD板,京东方,500000116710000,/,None,None,None
+驱动板,京东方,500000103620003,/,None,None,None
+触摸屏,京东方,500000310410002,/,None,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None
+本表格由电子事业部组装车间填写并保存，保存期限为10年。,None,None,None,None,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None

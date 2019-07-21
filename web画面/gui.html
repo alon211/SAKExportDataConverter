@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="c5.css"/>
+    <title>报表生成</title>
+
+</head>
+<body>
+
+    <div id="fileEntry">
+        <h4>文件路径设置</h4>
+        <form id="fileEntry_form" onsubmit="func1('fileEntry_form')">
+
+                          
+                    <h5>h_job_steps文件路径:</h5>
+                    <input type='text' name='h_job_steps_path_text' id='h_job_steps_path_text' class='txt' pattern="h_job_steps.csv$" title="选择h_job_steps.csv"/>      
+                    <input type="file" name="h_job_steps_path_file" id="h_job_steps_path_file" class="file" id="fileField"  size="28" onchange=
+                    "document.getElementById('h_job_steps_path_text').value=this.value" />
+                    <input type='button' class='btn' id='btn1' value='浏览...' onclick="click_fileEntry('h_job_steps_path_file')"/>
+                    <br/>
+                    <h5>h_orders文件路径:</h5>
+                    <input type='text' name='h_orders_path_text' id='h_orders_path_text' class='txt' />      
+                    <input type="file" name="h_orders_path_file" id="h_orders_path_file" class="file" id="fileField" size="28" onchange=
+                    "document.getElementById('h_orders_path_text').value=this.value" />
+                    <input type='button' class='btn' value='浏览...' onclick="click_fileEntry('h_orders_path_file')"/>
+                    <br/>
+                    <h5>生成文件路径:</h5>
+                    <input type='text' name='export_folder_text' id='export_folder_text' class='txt' />      
+                    <input type="file" name="export_folder_file" id="export_folder_file" class="file" id="fileField" size="28" onchange=
+                    "document.getElementById('export_folder_text').value=this.value" />
+                    <input type='button' class='btn' value='浏览...' onclick="click_fileEntry('export_folder_file')"/>
+                    <br/>
+                    <br/>
+                    <input type="submit" name="submit" class='btn' style="float:left;margin: 5px" onclick=></input>
+
+        </form>
+    </div>
+
+    
+    <script>
+        function func1(id){
+            var i =document.getElementById(id)
+            window.alert(i)
+            
+        } ;
+        function click_fileEntry(id){
+            
+            document.getElementById(id).click()
+        };
+       
+    </script>
+</body>
+</html>
