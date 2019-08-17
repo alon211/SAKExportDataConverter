@@ -2,14 +2,9 @@
 
 title demo
 
-%cd%
+call %cd%\venv\Scripts\activate.bat
 
-cd  SAK-wWeQ5XBE\Scripts
-
-call activate.bat
-cd ..
-cd ..
-python gui.py 
+python %cd%\gui.py 
 call deactivate.bat
 pause
 
